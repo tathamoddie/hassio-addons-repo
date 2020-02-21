@@ -20,7 +20,7 @@
   "map": [
     "backup:rw",
     "share:rw",
-    "ssl"
+    "ssl:ro"
   ],
   "webui": "http://[HOST]:[PORT:6789]",
   "boot": "auto",
