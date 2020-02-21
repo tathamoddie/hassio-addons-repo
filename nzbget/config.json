@@ -11,6 +11,7 @@
     "armhf",
     "i386"
   ],
+  "panel_icon": "mdi:television",
   "ports": {
     "6789/tcp": 6789
   },
