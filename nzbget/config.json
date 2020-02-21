@@ -1,8 +1,8 @@
 {
-  "name": "Nzbget",
+  "name": "NZBGet",
   "version": "latest",
   "slug": "nzbget_docker",
-  "description": "Nzbget add-on based on the prebuilt docker image from linuxserver",
+  "description": "NZBGet add-on based on the prebuilt docker image from linuxserver",
   "url": "https://github.com/marcelveldt/hassio-addons-repo/nzbget",
   "startup": "services",
   "arch": [
